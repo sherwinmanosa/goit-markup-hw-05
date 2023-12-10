@@ -601,6 +601,6 @@ body {
   transform: translateY(0%);
 }
 
-.project-card:hover .item-text {
+.project-card-item:hover .item-text {
   transform: translateY(0%);
 }
