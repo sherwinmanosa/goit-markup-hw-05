@@ -603,5 +603,5 @@ body {
 
 .project-card:hover .item-text,
 .project-card:focus .item-text {
-  transform: translateY(0%);
+  transform: translateY(0);
 }
