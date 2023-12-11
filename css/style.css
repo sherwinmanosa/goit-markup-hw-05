@@ -511,8 +511,6 @@ body {
 
 .portfolio-main .container {
   flex-wrap: wrap;
-  position: relative;
-  overflow: hidden;
 }
 
 .main-section {
@@ -608,7 +606,8 @@ body {
 }
 
 .project-card-img {
-  /* position: relative; */
+  position: relative;
+  overflow: hidden;
 }
 
 /* .overlay-text {
