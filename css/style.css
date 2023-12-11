@@ -511,6 +511,8 @@ body {
 
 .portfolio-main .container {
   flex-wrap: wrap;
+  position: relative;
+  overflow: hidden;
 }
 
 .main-section {
@@ -603,6 +605,10 @@ body {
 .project-card:hover .overlay-text,
 .project-card:focus .overlay-text {
   transform: translateY(0%);
+}
+
+.project-card-img {
+  /* position: relative; */
 }
 
 /* .overlay-text {
