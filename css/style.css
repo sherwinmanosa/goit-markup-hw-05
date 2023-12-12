@@ -605,7 +605,7 @@ body {
 
 .project-card:hover .overlay-text,
 .project-card:focus .overlay-text {
-  transform: translateY(0);
+  transform: translateY(0%);
 }
 
 .project-card-img {
