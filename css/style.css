@@ -435,8 +435,8 @@ body {
 
 .customer-icon-list-item:hover,
 .customer-icon-list-item:focus {
-  color: var(--ocean);
   border-color: var(--ocean);
+  color: var(--ocean);
 }
 
 /* footer Section */
